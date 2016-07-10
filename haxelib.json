@@ -6,7 +6,7 @@
   "tags": ["nodejs", "os-service"],
   "description": "Externs for the os-service NPM module",
   "releasenote": "Initial release",
-  "version": "2.0.0-alpha",
+  "version": "1.3.0-alpha",
   "contributors": ["Proletariat", "lpetre", "danogles", "waneck"],
   "dependencies": {
     "hxnodejs": ""
